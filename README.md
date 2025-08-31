@@ -21,7 +21,11 @@
 ---
 
 🏆 Highlights
-- 🥇 Hackathon Winner — designed and built a gamified knowledge-sharing platform.  
+- 🥇 **Hackathon Overall Winner (POSSE Circle, 8 teams, 40+ members)**
+   - Also awarded:
+     - **Code Award** (for backend implementation in PHP within 24h)
+     - **Requirements Definition Award** (for product design & strategy)
+   - *Nominated for Presentation Award (missed by just 2 points)* 
 - 🛠️ Delivered working PHP backend + multiple features solo overnight while supporting teammates.  
 - 📊 Strong at **steering discussions**: keeping focus, aligning direction, and turning ideas into requirements.  
 
@@ -37,4 +41,4 @@
 📫 Connect
 - GitHub: [@kamuuni]()  
 - Twitter: []()
-- LinkedIn: (optional)  
+- LinkedIn: ()  
