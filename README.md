@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--👋 Hi, I'm Kai
+👋 Hi, I'm Kai
 
 🎓 Information & Communication student at Meiji University  
 💻 Member of POSSE (student programming community)  
@@ -36,7 +36,5 @@
 
 📫 Connect
 - GitHub: [@kamuuni]()  
-- Twitter: [@YOUR-HANDLE](https://twitter.com/YOUR-HANDLE) (if you want to add)  
+- Twitter: []()
 - LinkedIn: (optional)  
-
--->
