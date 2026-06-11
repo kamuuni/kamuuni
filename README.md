@@ -39,7 +39,7 @@ A survey and analytics tool for visualizing team condition and psychological saf
 - Metric design for the analytics dashboard / 分析ダッシュボードの指標設計
 - Frontend implementation (React / Next.js) / フロントエンド実装
 - Requirements definition & team facilitation / 要件定義・チームファシリテーション
-→ [Repository](#) <!-- リンクを追加 -->
+→ [Repository](https://github.com/posse-ap/teamdev-2026-posse3-team5C) 
  
 ---
  
