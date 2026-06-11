@@ -1,44 +1,56 @@
-## Hi there 👋
-
-👋 Hi, I'm Kai
-
-🎓 Information & Communication student at Meiji University  
-💻 Member of POSSE (student programming community)  
-🌱 Interested in: Web development, psychology, team dynamics, and product design  
-
+# Kai
+ 
+Software engineer in training, focused on building products that work for teams — not just code that runs.
+動くコードだけでなく、チームのために機能するプロダクトをつくることに関心があります。
+ 
+- 🎓 Meiji University, School of Information and Communication (Class of 2027) / 明治大学 情報コミュニケーション学部
+- 💬 Japanese / English (TOEIC 875) 
 ---
-
-🚀 What I Do
-- 🧩 **Problem framing & requirements definition**  
-  - Skilled at structuring messy discussions, finding the core problem, and aligning the team.  
-- 💻 **Full-stack development (learning by doing)**  
-  - PHP, JavaScript, React, MySQL  
-  - Built hackathon products end-to-end in 24h sprints.  
-- 🤝 **Teamwork & mentoring**  
-  - Believe in the culture of *“teaching is learning”*.  
-  - Enjoy creating systems where sharing knowledge is fun and rewarding.  
-
+ 
+## What I do / できること
+ 
+**Requirements definition & product design / 要件定義・プロダクト設計**
+Won the Requirements Definition Award 3 times across 8 hackathons — each time with a completely different team. I take messy, open-ended problems and turn them into specs a team can actually build.
+8回のハッカソンで要件定義賞を3回受賞(毎回チーム編成は総入れ替え)。曖昧な課題を、チームが実装できる仕様に落とし込むのが得意です。
+ 
+**Full-stack development / フルスタック開発**
+PHP / Laravel, JavaScript / TypeScript, React / Next.js, MySQL / PostgreSQL, Docker
+Currently sharpening fundamentals with daily AtCoder practice (PHP).
+AtCoderで毎日アルゴリズムの基礎を鍛えています。
+ 
+**Team communication / チームコミュニケーション**
+Facilitation, 1-on-1 check-ins, cross-functional alignment. I care about psychological safety as a practical engineering concern — it's what keeps teams shipping.
+ファシリテーション、1on1、職能を越えた合意形成。心理的安全性を大切にしています。
+ 
 ---
-
-🏆 Highlights
-- 🥇 **Hackathon Overall Winner (POSSE Circle, 8 teams, 40+ members)**
-   - Also awarded:
-     - **Code Award** (for backend implementation in PHP within 24h)
-     - **Requirements Definition Award** (for product design & strategy)
-   - *Nominated for Presentation Award (missed by just 2 points)* 
-- 🛠️ Delivered working PHP backend + multiple features solo overnight while supporting teammates.  
-- 📊 Strong at **steering discussions**: keeping focus, aligning direction, and turning ideas into requirements.  
-
+ 
+## Featured project / 代表プロジェクト
+ 
+### Synapse — Employee engagement & psychological safety platform
+ 
+**Stack:** Next.js / Laravel / PostgreSQL / Docker
+ 
+A survey and analytics tool for visualizing team condition and psychological safety, built for a hackathon hosted by Link & Motivation. Survey design grounded in established frameworks (MBI, JD-R, Edmondson's psychological safety research).
+ 
+チームのコンディションと心理的安全性を可視化するサーベイ・分析ツール。リンクアンドモチベーション主催ハッカソンにて開発。設問設計はMBI・JD-Rモデル・エドモンドソンの心理的安全性研究に基づいています。
+ 
+**My role / 担当:**
+- Product architecture & survey instrument design / プロダクト設計・サーベイ設計
+- Metric design for the analytics dashboard / 分析ダッシュボードの指標設計
+- Frontend implementation (React / Next.js) / フロントエンド実装
+- Requirements definition & team facilitation / 要件定義・チームファシリテーション
+→ [Repository](#) <!-- リンクを追加 -->
+ 
 ---
-
-🎯 My Values
-- **Curiosity**: explore deeply, from code to culture.  
-- **Resilience**: capable of going the extra mile (or staying up all night) when it matters.  
-- **Playfulness**: treat projects like experiments — bold ideas come from fun.  
-
+ 
+## How I work / 仕事の進め方
+ 
+- **Spec before code.** The most expensive bugs are the ones written into the requirements. / コードの前に仕様。最も高くつくバグは要件に書き込まれたバグ。
+- **Teaching is learning.** Knowledge shared is knowledge doubled. / 教えることは学ぶこと。
+- **Depth over breadth.** I'd rather understand one system completely than ten systems vaguely. / 広く浅くより、狭く深く。
 ---
-
-📫 Connect
-- GitHub: [@kamuuni]()  
-- Twitter: []()
-- LinkedIn: ()  
+ 
+## Connect
+ 
+- 🌐 Portfolio: [coming soon](#) <!-- ポートフォリオ公開後にリンク追加 -->
+- 𝕏 Twitter: [@](#) <!-- リンクを追加 -->
