@@ -45,9 +45,9 @@ A survey and analytics tool for visualizing team condition and psychological saf
  
 ## How I work / 仕事の進め方
  
-- **Spec before code.** The most expensive bugs are the ones written into the requirements. / コードの前に仕様。最も高くつくバグは要件に書き込まれたバグ。
-- **Teaching is learning.** Knowledge shared is knowledge doubled. / 教えることは学ぶこと。
-- **Depth over breadth.** I'd rather understand one system completely than ten systems vaguely. / 広く浅くより、狭く深く。
+- **Seek first to understand, then to be understood.** / 理解してから理解される。
+- **To teach is to be taught.** / 教えることは教わること。
+- **Enjoy the work.** Bold ideas is fun. / 楽しんでやる。大胆なアイデアを歓迎する。
 ---
  
 ## Connect
