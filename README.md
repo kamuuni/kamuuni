@@ -4,7 +4,7 @@ Software engineer in training, focused on building products that work for teams 
 動くコードだけでなく、チームのために機能するプロダクトをつくることに関心があります。
  
 - 🎓 Meiji University, School of Information and Communication (Class of 2027) / 明治大学 情報コミュニケーション学部
-- 💬 Japanese / English (TOEIC 875) 
+- 💬 Japanese / English (TOEIC 870) 
 ---
  
 ## What I do / できること
