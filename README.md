@@ -58,6 +58,16 @@ A product where gratitude grows a hero: members send thanks to each other, and t
 - [Akiya-Tracker](https://github.com/kamuuni/Akiya-Tracker) — Monitors a rural municipality's vacant-house bank for new listings. / 自治体の空き家バンクの新着物件を監視する仕組み
  
 ---
+
+## Next up / 次に作るもの
+
+- **Lecture notes from Live Captions** — On-demand university lectures are hard to sit through, so I plan to extend a [fork of LiveCaptions-Translator](https://github.com/kamuuni/LiveCaptions-Translator) to turn them into text documents I can read and review. / 大学のオンデマンド授業を、文字で読んで復習できるようにしたい。Windowsのライブキャプションを使う翻訳ツールのフォークを改造し、講義内容をドキュメント化する
+
+- **Mood-tagged Spotify playlists** — I have 500+ favorite tracks and reshuffle them by mood every day, which is impossible to manage by hand. I'll tag each track with when I want to hear it and how it makes me feel, then auto-generate playlists like "cozy rainy day" from the weather, time of day, and day of the week. / お気に入り500曲以上を、毎日その時の気分で入れ替えているが、手作業では管理しきれない。曲ごとに「聴きたい時間帯・気分・受ける感情」をタグ付けし、天気・時間帯・曜日から「雨の日のコージーなプレイリスト」などを自動生成する
+
+- **Guide page for the restaurant I work at** — Staff spend a lot of time explaining the showcase and slow-to-serve dishes to every table. I plan to build a page that customers see after scanning the table QR code, before they reach the existing ordering system. / バイト先の飲食店では、ショーケースの案内や提供に時間がかかるメニューの説明を、卓ごとに口頭でしていて負担になっている。卓のQRコードから注文システムに進む前に、その説明を見てもらえる中継ページを作る
+
+---
  
 ## How I work / 仕事の進め方
  
