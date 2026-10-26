@@ -49,6 +49,15 @@ A product where gratitude grows a hero: members send thanks to each other, and t
  
 感謝で勇者が育つ、コミュニティ内に感謝の輪を広げるプロダクト。他チームがSNS型に寄る中、ゲーム性を軸に要件定義を作り直し、優勝しました。
 → [Repository](https://github.com/kamuuni/2025-SummerHackathon-3H)
+
+### Laravel learning project — POSSE curriculum
+
+**Stack:** Laravel 10 / PHP / Tailwind CSS / Docker
+
+Rebuilt a community website as a POSSE curriculum assignment, then added a quiz system, a blog with comments, and admin-only management on my own. I wrote the backend without AI to understand how Laravel actually works.
+
+POSSEのカリキュラム課題としてコミュニティサイトを模写し、クイズ・ブログとコメント・管理者機能を自分で追加。Laravelの仕組みを理解するため、バックエンドはAIに書かせずに実装しました。
+→ [Repository](https://github.com/kamuuni/posse-website-ph3)
  
 ---
  
