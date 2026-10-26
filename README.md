@@ -71,6 +71,5 @@ A product where gratitude grows a hero: members send thanks to each other, and t
  
 ## How I work / 仕事の進め方
  
-- **Seek first to understand, then to be understood.** / 理解してから理解される。
-- **To teach is to be taught.** / 教えることは教わること。
-- **Enjoy the work.** Bold ideas are fun. / 楽しんでやる。大胆なアイデアを歓迎する。
+- **Health first.** Staying healthy is what gives me the drive to build and the bursts of deep focus to finish. / 健康第一。健康だから意欲がわき、爆発的な集中力が出せる。
+- **Critique the idea, not the person.** I agree on this with every team before we start discussing. / 指摘はアイデアに向けて、人には向けない。議論を始める前に、チームでこのルールを共有しています。
