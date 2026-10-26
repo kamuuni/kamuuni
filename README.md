@@ -3,20 +3,19 @@
 Software engineer in training, focused on building products that work for teams — not just code that runs.
 動くコードだけでなく、チームのために機能するプロダクトをつくることに関心があります。
  
-- 🎓 Meiji University, School of Information and Communication (Class of 2027) / 明治大学 情報コミュニケーション学部
-- 💬 Japanese / English (TOEIC 870) 
+- 🎓 Meiji University, School of Information and Communication (Class of 2028) / 明治大学 情報コミュニケーション学部
+- 💬 Japanese / English (TOEIC 875)
+
 ---
  
 ## What I do / できること
  
 **Requirements definition & product design / 要件定義・プロダクト設計**
-Won the Requirements Definition Award 3 times across 8 hackathons — each time with a completely different team. I take messy, open-ended problems and turn them into specs a team can actually build.
-8回のハッカソンで要件定義賞を3回受賞(毎回チーム編成は総入れ替え)。曖昧な課題を、チームが実装できる仕様に落とし込むのが得意です。
+8 hackathons, each with a completely different team: 1 win and 3 Requirements Definition Awards. I take messy, open-ended problems and turn them into specs a team can actually build.
+8回のハッカソン(毎回チーム編成は総入れ替え)で、優勝1回・要件定義賞3回。曖昧な課題を、チームが実装できる仕様に落とし込むのが得意です。
  
 **Full-stack development / フルスタック開発**
-PHP / Laravel, JavaScript / TypeScript, React / Next.js, MySQL / PostgreSQL, Docker
-Currently sharpening fundamentals with daily AtCoder practice (PHP).
-AtCoderで毎日アルゴリズムの基礎を鍛えています。
+PHP / Laravel, JavaScript / TypeScript, React / Next.js, Python, MySQL / PostgreSQL, Docker
  
 **Team communication / チームコミュニケーション**
 Facilitation, 1-on-1 check-ins, cross-functional alignment. I care about psychological safety as a practical engineering concern — it's what keeps teams shipping.
@@ -24,7 +23,7 @@ Facilitation, 1-on-1 check-ins, cross-functional alignment. I care about psychol
  
 ---
  
-## Featured project / 代表プロジェクト
+## Featured projects / 代表プロジェクト
  
 ### Synapse — Employee engagement & psychological safety platform
  
@@ -39,7 +38,24 @@ A survey and analytics tool for visualizing team condition and psychological saf
 - Metric design for the analytics dashboard / 分析ダッシュボードの指標設計
 - Frontend implementation (React / Next.js) / フロントエンド実装
 - Requirements definition & team facilitation / 要件定義・チームファシリテーション
-→ [Repository](https://github.com/posse-ap/teamdev-2026-posse3-team5C) 
+
+*The code lives in a private team repository. / コードはチームの非公開リポジトリにあります。*
+ 
+### 🏆 Hackathon winner — gratitude-driven community game
+ 
+**Stack:** PHP / MySQL / HTML / CSS
+ 
+A product where gratitude grows a hero: members send thanks to each other, and the community's hero levels up. While other teams built SNS-style services, we redefined the requirements around game mechanics — and won.
+ 
+感謝で勇者が育つ、コミュニティ内に感謝の輪を広げるプロダクト。他チームがSNS型に寄る中、ゲーム性を軸に要件定義を作り直し、優勝しました。
+→ [Repository](https://github.com/kamuuni/2025-SummerHackathon-3H)
+ 
+---
+ 
+## Things I built for myself / 自分のために作ったもの
+ 
+- [atcoder-sync](https://github.com/kamuuni/atcoder-sync) — Syncs my AtCoder solutions to GitHub. / AtCoderで解いた問題をGitHubに自動で反映
+- [Akiya-Tracker](https://github.com/kamuuni/Akiya-Tracker) — Monitors a rural municipality's vacant-house bank for new listings. / 自治体の空き家バンクの新着物件を監視する仕組み
  
 ---
  
@@ -47,10 +63,4 @@ A survey and analytics tool for visualizing team condition and psychological saf
  
 - **Seek first to understand, then to be understood.** / 理解してから理解される。
 - **To teach is to be taught.** / 教えることは教わること。
-- **Enjoy the work.** Bold ideas is fun. / 楽しんでやる。大胆なアイデアを歓迎する。
----
- 
-## Connect
- 
-- 🌐 Portfolio: [coming soon](#) <!-- ポートフォリオ公開後にリンク追加 -->
-- 𝕏 Twitter: [@](#) <!-- リンクを追加 -->
+- **Enjoy the work.** Bold ideas are fun. / 楽しんでやる。大胆なアイデアを歓迎する。
