@@ -1,4 +1,4 @@
-# Kai
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F4A1C,100:2E1A0E&height=200&section=header&text=Kai%20Kanesaka&fontColor=F5EFE0&fontSize=60&fontAlignY=38&animation=fadeIn" />
  
 Software engineer in training, focused on building products that work for teams — not just code that runs.
 動くコードだけでなく、チームのために機能するプロダクトをつくることに関心があります。
